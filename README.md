@@ -2,6 +2,16 @@
 
 A Vellum-powered cash flow intelligence system with real-time Xero, Precoro, and Outlook integration.
 
+## Screenshots
+
+| Dashboard | 13-Week Forecast |
+|---|---|
+| ![Dashboard](docs/screenshots/01-dashboard.png) | ![Forecast](docs/screenshots/02-forecast.png) |
+
+| Workflows | Integrations |
+|---|---|
+| ![Workflows](docs/screenshots/03-workflows.png) | ![Integrations](docs/screenshots/04-integrations.png) |
+
 ## What It Does
 
 - **Daily Cash Position** — automated 7am report: Xero bank balance + AR/AP aging + Precoro committed POs → LLM analysis → email to CFO
